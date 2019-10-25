@@ -17,16 +17,16 @@ You can run the install.command directly but it will keep asking you for Passwor
 An easier way is to do "sudo -i" to escalate yourself to root user. Then run the install.command.
 This is to fix your headphone jack. If you plug in your headphone and the sound is muffled, run this. You most likely will face the situation.
 
-#MacOS Versions Supported:
+# MacOS Versions Supported:
 High Sierra
 Mojave
-Catalina(Beta)
+Catalina
 
-#CPUs Supported:
-I7-8550u
-I5-8250u
+# CPUs Supported:
+i7-8550u
+i5-8250u
 
-#What is Working
+# What is Working
 Native power management
 Intel GPU
 Audio (AppleALC)
@@ -38,5 +38,5 @@ Usb speed
 Built-in camera (Doesn't work for the i7 version. Not sure why)
 Built-in mic
 
-#What is Not Working
+# What is Not Working
 Wifi & Bluetooth Intel
